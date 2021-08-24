@@ -4,8 +4,8 @@
 There are two types of binning:
 
 * Unsupervised Binning :
-- Equal width binning<br>
-- Equal frequency binning<br>
+1. Equal width binning<br>
+2. Equal frequency binning<br>
 
 * Supervised Binning:
 1.Entropy-based binning
