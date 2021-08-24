@@ -8,4 +8,4 @@ There are two types of binning:
 2. Equal frequency binning<br>
 
 * Supervised Binning:
-1.Entropy-based binning
+1. Entropy-based binning
