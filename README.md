@@ -9,3 +9,7 @@ There are two types of binning:
 
 * Supervised Binning:
 1. Entropy-based binning
+
+Example:
+
+![image](https://user-images.githubusercontent.com/64760966/130640095-44164886-67e1-45b3-9804-ef0092e8499f.png)
